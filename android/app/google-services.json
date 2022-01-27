@@ -1,0 +1,242 @@
+{
+  "project_info": {
+    "project_number": "730861229657",
+    "project_id": "flutter-basics-f9405",
+    "storage_bucket": "flutter-basics-f9405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730861229657:android:622e0b70882b8b00ff8348",
+        "android_client_info": {
+          "package_name": "com.example.calarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATc_HtS9T5ffk83I_tPMGYetPasAgzcYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730861229657-lu2313o18vn2dcn8rat65kbvb61bum74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calarm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730861229657:android:c9703b88fc9d7aa0ff8348",
+        "android_client_info": {
+          "package_name": "com.example.calarm1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATc_HtS9T5ffk83I_tPMGYetPasAgzcYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730861229657-lu2313o18vn2dcn8rat65kbvb61bum74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calarm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730861229657:android:af592875ef6f2d8cff8348",
+        "android_client_info": {
+          "package_name": "com.example.calarm3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATc_HtS9T5ffk83I_tPMGYetPasAgzcYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730861229657-lu2313o18vn2dcn8rat65kbvb61bum74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calarm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730861229657:android:bd17ede09d74be9bff8348",
+        "android_client_info": {
+          "package_name": "com.example.middlecalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730861229657-0qbcgro3ilm80n1kfjaqs93cvio8hn9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.middlecalarm",
+            "certificate_hash": "f82bc516f6ef3078fe600b7cd3c5f11cd4d320e9"
+          }
+        },
+        {
+          "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATc_HtS9T5ffk83I_tPMGYetPasAgzcYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730861229657-lu2313o18vn2dcn8rat65kbvb61bum74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calarm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730861229657:android:79536cb965858fe1ff8348",
+        "android_client_info": {
+          "package_name": "com.main.calarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730861229657-g4vhfaq4k5q4vl2ahjhpnukh69v6nj58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.main.calarm",
+            "certificate_hash": "5ff2bbc7e5bc067a07270ab4219ded483ba9861d"
+          }
+        },
+        {
+          "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATc_HtS9T5ffk83I_tPMGYetPasAgzcYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730861229657-lu2313o18vn2dcn8rat65kbvb61bum74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calarm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730861229657:android:4737dd77553bb9e1ff8348",
+        "android_client_info": {
+          "package_name": "com.practice.example_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATc_HtS9T5ffk83I_tPMGYetPasAgzcYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730861229657-30sl19m420r3ctrdb2mncif3ki2if9cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730861229657-lu2313o18vn2dcn8rat65kbvb61bum74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calarm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

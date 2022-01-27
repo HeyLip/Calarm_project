@@ -1,0 +1,80 @@
+name: calarm
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  ntp: ^2.0.0
+  flutter_screenutil: ^5.0.0+2
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+  firebase_core: ^1.4.0
+
+  firebase_auth: ^1.0.1
+  google_sign_in: ^5.0.0
+  cloud_firestore: ^2.4.0
+  numberpicker: ^2.1.1
+  sqflite: ^2.0.0+3
+
+  flutter_local_notifications: ^8.1.0
+  device_info_plus: ^2.1.0
+  rxdart: ^0.27.1
+  flutter_native_timezone: ^2.0.0
+  http: ^0.13.0
+  shared_preferences: ^2.0.1
+
+  provider: ^4.1.3
+  path_provider: ^2.0.2
+  file_picker: ^4.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+
+flutter:
+
+  uses-material-design: true
+  
+  fonts:
+    - family: NanumGothic
+      fonts:
+        - asset: fonts/NanumGothic.ttf
+        - asset: fonts/NanumGothicBold.ttf
+          weight: 700
+    - family: NanumBarunGothic
+      fonts:
+        - asset: fonts/NanumBarunGothicBold.otf
+          weight: 700
+    - family: BMDOHYEON
+      fonts:
+        - asset: fonts/BMDOHYEON.otf
+    # - family: avenir
+    #   fonts:
+    #     - asset: assets/fonts/Avenir-Book.ttf
+    #     - asset: assets/fonts/Avenir-Heavy.ttf
+    #       weight: 700
+    #     - asset: assets/fonts/Avenir-Medium.ttf
+    #       weight: 500
+    #     - asset: assets/fonts/Avenir-Light.ttf
+    #       weight: 300
+
+  assets:
+    - assets/
